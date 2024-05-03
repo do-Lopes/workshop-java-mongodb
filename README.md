@@ -19,7 +19,7 @@ Java 17
 # clonar repositório
 git clone https://github.com/do-Lopes/workshop-java-mongodb
 
-# entrar na no arquivo main e executar
+# entrar no arquivo main e executar
 src/main/java/com/wkmongo/workshopmongo/WorkshopmongoApplication.java
 ```
 ## Como acessar o banco de dados
